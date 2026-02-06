@@ -1,0 +1,162 @@
+[
+  {
+    "id": 101,
+    "naam": "Marc-André ter Stegen",
+    "beschrijving": "Eerste doelman van FC Barcelona en Duits international.",
+    "leeftijd": 31,
+    "isActief": true,
+    "geboortedatum": "1992-04-30",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Marc-André_ter_Stegen_2018.jpg",
+    "status": "basis",
+    "hobbies": ["gamen", "fitness"],
+    "positie": {
+      "id": 1,
+      "naam": "Doelman",
+      "afkorting": "GK"
+    }
+  },
+  {
+    "id": 102,
+    "naam": "Ronald Araújo",
+    "beschrijving": "Sterke centrale verdediger met veel fysieke kracht.",
+    "leeftijd": 25,
+    "isActief": true,
+    "geboortedatum": "1999-03-07",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ronald_Araujo_2022.jpg",
+    "status": "basis",
+    "hobbies": ["krachttraining", "reizen"],
+    "positie": {
+      "id": 2,
+      "naam": "Verdediger",
+      "afkorting": "DEF"
+    }
+  },
+  {
+    "id": 103,
+    "naam": "Jules Koundé",
+    "beschrijving": "Snelle verdediger die ook als rechtsback speelt.",
+    "leeftijd": 25,
+    "isActief": true,
+    "geboortedatum": "1998-11-12",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Jules_Kounde_2022.jpg",
+    "status": "basis",
+    "hobbies": ["mode", "muziek"],
+    "positie": {
+      "id": 2,
+      "naam": "Verdediger",
+      "afkorting": "DEF"
+    }
+  },
+  {
+    "id": 104,
+    "naam": "Frenkie de Jong",
+    "beschrijving": "Technisch sterke middenvelder met veel loopvermogen.",
+    "leeftijd": 26,
+    "isActief": true,
+    "geboortedatum": "1997-05-12",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Frenkie_de_Jong_2019.jpg",
+    "status": "basis",
+    "hobbies": ["voetbal", "reizen"],
+    "positie": {
+      "id": 3,
+      "naam": "Middenvelder",
+      "afkorting": "MID"
+    }
+  },
+  {
+    "id": 105,
+    "naam": "Pedri",
+    "beschrijving": "Creatieve middenvelder met uitstekend spelinzicht.",
+    "leeftijd": 21,
+    "isActief": true,
+    "geboortedatum": "2002-11-25",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pedri_2021.jpg",
+    "status": "basis",
+    "hobbies": ["schaken", "gamen"],
+    "positie": {
+      "id": 3,
+      "naam": "Middenvelder",
+      "afkorting": "MID"
+    }
+  },
+  {
+    "id": 106,
+    "naam": "Gavi",
+    "beschrijving": "Jonge, energieke middenvelder met veel strijdlust.",
+    "leeftijd": 19,
+    "isActief": true,
+    "geboortedatum": "2004-08-05",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Gavi_2022.jpg",
+    "status": "basis",
+    "hobbies": ["fitness", "muziek"],
+    "positie": {
+      "id": 3,
+      "naam": "Middenvelder",
+      "afkorting": "MID"
+    }
+  },
+  {
+    "id": 107,
+    "naam": "Robert Lewandowski",
+    "beschrijving": "Ervaren spits en vaste doelpuntenmaker.",
+    "leeftijd": 35,
+    "isActief": true,
+    "geboortedatum": "1988-08-21",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Robert_Lewandowski_2022.jpg",
+    "status": "basis",
+    "hobbies": ["fitness", "gezonde voeding"],
+    "positie": {
+      "id": 4,
+      "naam": "Aanvaller",
+      "afkorting": "ATT"
+    }
+  },
+  {
+    "id": 108,
+    "naam": "Raphinha",
+    "beschrijving": "Snelle vleugelspeler met veel diepgang.",
+    "leeftijd": 27,
+    "isActief": true,
+    "geboortedatum": "1996-12-14",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Raphinha_2022.jpg",
+    "status": "basis",
+    "hobbies": ["muziek", "reizen"],
+    "positie": {
+      "id": 4,
+      "naam": "Aanvaller",
+      "afkorting": "ATT"
+    }
+  },
+  {
+    "id": 109,
+    "naam": "Ferran Torres",
+    "beschrijving": "Aanvaller die zowel centraal als op de flank speelt.",
+    "leeftijd": 24,
+    "isActief": true,
+    "geboortedatum": "2000-02-29",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ferran_Torres_2021.jpg",
+    "status": "wissel",
+    "hobbies": ["gamen", "fitness"],
+    "positie": {
+      "id": 4,
+      "naam": "Aanvaller",
+      "afkorting": "ATT"
+    }
+  },
+  {
+    "id": 110,
+    "naam": "Iñaki Peña",
+    "beschrijving": "Reserve doelman van FC Barcelona.",
+    "leeftijd": 25,
+    "isActief": true,
+    "geboortedatum": "1999-03-02",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Inaki_Pena_2022.jpg",
+    "status": "wissel",
+    "hobbies": ["lezen", "fitness"],
+    "positie": {
+      "id": 1,
+      "naam": "Doelman",
+      "afkorting": "GK"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "naam": "Doelman",
+    "afkorting": "GK",
+    "isVerdedigend": true,
+    "beschrijving": "Beschermt het doel en mag de bal met de handen spelen."
+  },
+  {
+    "id": 2,
+    "naam": "Verdediger",
+    "afkorting": "DEF",
+    "isVerdedigend": true,
+    "beschrijving": "Probeert doelpunten te voorkomen en aanvallen te stoppen."
+  },
+  {
+    "id": 3,
+    "naam": "Middenvelder",
+    "afkorting": "MID",
+    "isVerdedigend": false,
+    "beschrijving": "Verbindt verdediging en aanval."
+  },
+  {
+    "id": 4,
+    "naam": "Aanvaller",
+    "afkorting": "ATT",
+    "isVerdedigend": false,
+    "beschrijving": "Scoort doelpunten en zet druk op de tegenstander."
+  }
+]
