@@ -23,7 +23,7 @@
     "isActief": true,
     "geboortedatum": "1999-03-07",
     "imageUrl": "https://raw.githubusercontent.com/matiastorfs/dataset-project-webontwikkeling/refs/heads/main/images/Araujo.jpg",
-    "status": "Wissel",
+    "status": "Basis",
     "hobbies": ["krachttraining", "reizen"],
     "positie": {
       "id": 2,
@@ -160,3 +160,4 @@
     }
   }
 ]
+
